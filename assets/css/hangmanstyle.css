@@ -1,0 +1,27 @@
+#game{
+	text-align: center;
+	font-size: 24px;
+	color: white;
+}
+
+html {
+	background: url("../images/startrekbackground.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+	
+	
+}
+
+#logo{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
+
+body{
+	font-family: 'Orbitron', sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 24px;
+}
