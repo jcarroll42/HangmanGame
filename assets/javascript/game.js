@@ -104,7 +104,7 @@
 		},
 
 		printWin: function(){
-			var imgs = ['<img src="assets/images/PicardWin.jpg">', '<img src="assets/images/worfwin.jpg">', '<img src="assets/images/datawin.jpg">', '<img src="assets/images/spockwin.jpg">', '<img src="assets/images/kirkwin.jpg">'];
+			var imgs = ['<img src="assets/images/picardwin.jpg">', '<img src="assets/images/worfwin.jpg">', '<img src="assets/images/datawin.jpg">', '<img src="assets/images/spockwin.jpg">', '<img src="assets/images/kirkwin.jpg">'];
 
 			var pickedImg = imgs[Math.floor(Math.random()*imgs.length)];
 
